@@ -1,4 +1,4 @@
-![logo](https://github.com/ZiadElmarakbi/Mastering-Embedded-Systems-Fundamentals/blob/master/banner%20(3).png)
+![logo](https://github.com/ZiadElmarakbi/Mastering-Embedded-Systems-Fundamentals/blob/master/banner%20(5).png)
 <h1 align="center">Hi 👋, I'm Ziad Elmarakbi</h1>
 <h3 align="center">A Passionate IoT Embedded Systems Engineer</h3>
 
