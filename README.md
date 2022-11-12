@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate IoT Embedded Systems Engineer</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/ZiadElmarakbi/Mastering-Embedded-Systems-Fundamentals/blob/master/1Q7Z.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/ZiadElmarakbi/ZiadElmarakbi/blob/main/1Q7Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadelmarakbi&label=Profile%20views&color=0e75b6&style=flat" alt="ziadelmarakbi" /> </p>
 
