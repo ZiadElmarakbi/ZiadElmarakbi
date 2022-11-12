@@ -1,23 +1,23 @@
 ![logo](https://github.com/ZiadElmarakbi/Mastering-Embedded-Systems-Fundamentals/blob/master/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Ziad Elmarakbi</h1>
-<h3 align="center">A Passionate Embedded Systems Engineer</h3>
+<h3 align="center">A Passionate IoT Embedded Systems Engineer</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/ZiadElmarakbi/Mastering-Embedded-Systems-Fundamentals/blob/master/giphy.gif">
+<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadelmarakbi&label=Profile%20views&color=0e75b6&style=flat" alt="ziadelmarakbi" /> </p>
 
-- 🔭 I’m currently working on **Developing Bare Metal Drivers**
+- 🔭 I’m currently working on **Bare Metal Drivers, Smart Home & Agricultural IoT Automations**
 
-- 🌱 I’m currently learning **MCU Fundamentals**
+- 🌱 I’m currently learning **MCU Fundamentals & WAN Protocols**
 
-- 👯 I’m looking to collaborate on **IoT B2B Solutions**
+- 👯 I’m collaborating on **IoT Connectivity B2B Solutions**
 
-- 👨‍💻 All of my projects are [Available at https://www.learn-in-depth.com/online-diploma/zezoalbendary20%40gmail.com](Available at https://www.learn-in-depth.com/online-diploma/zezoalbendary20%40gmail.com)
+- 👨‍💻 All of my projects are Available at https://www.learn-in-depth.com/online-diploma/zezoalbendary20%40gmail.com
 
-- 💬 Ask me about **C, Embedded-C, C++, UML**
+- 💬 Ask me about **C, Embedded C, C++, UML, IoT Platforms**
 
-- 📫 How to reach me **zezoalbendary20@gmail.com**
+- 📫 You can reach me at **Zezoalbendary20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
