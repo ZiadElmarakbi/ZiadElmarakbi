@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadelmarakbi&label=Profile%20views&color=0e75b6&style=flat" alt="ziadelmarakbi" /> </p>
 
-- 🔭 I’m currently working on **Bare Metal Drivers, Smart Home & Agricultural IoT Automations**
+- 🔭 I’m currently working on **Bare Metal Drivers Development, Smart Homes & Agricultural IoT Automations**
 
 - 🌱 I’m currently learning **MCU Fundamentals & WAN Protocols**
 
