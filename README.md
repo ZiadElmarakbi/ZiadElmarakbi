@@ -1,3 +1,8 @@
+<style>
+.markdown-body img{
+margin-bottom:20px 
+}
+</style>
 ![logo](https://github.com/ZiadElmarakbi/ZiadElmarakbi/blob/main/banner%20(5).png)
 <h1 align="center">Hi 👋, I'm Ziad Elmarakbi</h1>
 <h3 align="center">A Passionate IoT Embedded Systems Engineer</h3>
