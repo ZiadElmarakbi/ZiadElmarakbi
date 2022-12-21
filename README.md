@@ -30,9 +30,12 @@
 
 <p style="margin-button:15px"><img style="margin-button:15px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadelmarakbi&show_icons=true&locale=en&layout=compact" alt="ziadelmarakbi" /></p>
 <p></p>
+<br>
 
 <p >&nbsp;<img style="margin-button:15px" align="left" src="https://github-readme-stats.vercel.app/api?username=ziadelmarakbi&show_icons=true&locale=en" alt="ziadelmarakbi" /></p>
 <p></p>
+<br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadelmarakbi&" alt="ziadelmarakbi" /></p>
 
 
